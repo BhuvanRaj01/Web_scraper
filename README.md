@@ -18,7 +18,6 @@ Follow the steps below to set up the project on your local machine:
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/BhuvanRaj01/Ai_data_scraper.git
-cd Ai_data_scraper
 python -m venv venv
 .\venv\Scripts\Activate.ps1
 pip install -r requirements.txt
