@@ -21,4 +21,5 @@ git clone https://github.com/BhuvanRaj01/Ai_data_scraper.git
 cd Ai_data_scraper
 python -m venv venv
 .\venv\Scripts\Activate.ps1
+pip install -r requirements.txt
 streamlit run streamlit_app.py
